@@ -1,16 +1,21 @@
-## Hi there 👋
+👩🏻‍💻 Daniel
 
-<!--
-**danieldelfino/danieldelfino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Engineer | Python | SQL | ETL | Cloud 
 
-Here are some ideas to get you started:
+Sou formado em Sistemas de Informação e atualmente me especializando em Engenharia de Dados. 
+Tenho foco na construção de pipelines de dados, processos de ETL/ELT e modelagem para análise e tomada de decisão. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interesses:
+- Engenharia de Dados e Big Data 
+- Data Warehousing e Analytics 
+- Cloud Computing 
+- Automação e otimização de processos 
+
+🛠️ Tecnologias:
+Python | SQL | Pandas | Airflow | Spark | Docker | Git | Cloud (AWS/GCP) 
+
+📚 Atualmente estudando:
+Arquiteturas de Dados, Orquestração de Pipelines e Processamento Distribuído 
+
+🎯 Objetivo:
+Atuar como Engenheiro de Dados, criando soluções escaláveis que transformem dados em valor estratégico.
