@@ -1,21 +1,18 @@
 👩🏻‍💻 Daniel
 
-🚀 Data Engineer | Python | SQL | ETL | Cloud 
 
-Sou formado em Sistemas de Informação e atualmente me especializando em Engenharia de Dados. 
-Tenho foco na construção de pipelines de dados, processos de ETL/ELT e modelagem para análise e tomada de decisão. 
+ Profissional formado em Sistemas de Informação, com conhecimentos em SQL, Linux e lógica de programação. Buscando a primeira oportunidade na área de Tecnologia da Informação para desenvolver habilidades técnicas e contribuir com suporte, atendimento e soluções em TI. Perfil proativo, organizado e com facilidade de aprendizado.
 
 💡 Interesses:
-- Engenharia de Dados e Big Data 
-- Data Warehousing e Analytics 
-- Cloud Computing 
-- Automação e otimização de processos 
+- Assistente de TI
+- Analista de TI
+- Analista de Sistemas 
 
 🛠️ Tecnologias:
-Python | SQL | Pandas | Airflow | Spark | Docker | Git | Cloud (AWS/GCP) 
+Lógica de programação | SQL | Linux |
 
 📚 Atualmente estudando:
 Arquiteturas de Dados, Orquestração de Pipelines e Processamento Distribuído 
 
 🎯 Objetivo:
-Atuar como Engenheiro de Dados, criando soluções escaláveis que transformem dados em valor estratégico.
+Atuar como Assistente de TI, Analista de TI, Analista de sistemas, entre outras
