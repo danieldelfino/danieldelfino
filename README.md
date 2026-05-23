@@ -11,8 +11,6 @@
 🛠️ Tecnologias:
 Lógica de programação | SQL | Linux |
 
-📚 Atualmente estudando:
-Arquiteturas de Dados, Orquestração de Pipelines e Processamento Distribuído 
 
 🎯 Objetivo:
 Atuar como Assistente de TI, Analista de TI, Analista de sistemas, entre outras
